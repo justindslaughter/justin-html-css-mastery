@@ -66,10 +66,17 @@ span {
 
 blockquote {
   border-left: 4px gray solid;
-  padding: 20px;
+  padding-left: 20px;
   margin-left: 30px;
+}
+
+ol {
+  list-style-position: inside;
 }
 
 .comments {
   background-color: gray;
+  padding: 12px;
+  margin: auto;
+  max-width: 620px;
 }
