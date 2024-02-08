@@ -1,4 +1,4 @@
-# Justin's HTML mastery
+# Justin's CSS mastery
 
 By Justin Slaughter, Intro Coding for Journalists class
 
